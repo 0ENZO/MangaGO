@@ -15,8 +15,8 @@ The project has been designed to work on the cloud, using a lot of AWS services 
 Almost all the infrastructure is automatically deployed using Terraform.
 Here is a diagram describing the implemented infrastructure :
 
+![aws_infrastructure](https://github.com/0ENZO/MangaGO/assets/53021621/b23c2979-89b4-4495-8082-5a2b0b02487f)
 
-![aws_infrastructure](https://github.com/0ENZO/MangaGO/assets/53021621/73e113e3-91ab-4e2d-b146-418d50c1fd40)
 
 ## Models
 To complete this project, we've used : 
