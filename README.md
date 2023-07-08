@@ -7,10 +7,16 @@ This project has been developed as part of our end-of-year project, for our 5th 
 ## Demo
 In the following video you'll see the possibilities offered by the MangaGO platform, from uploading scans, to the translation correction interface, to exporting translated scans. 
 
+[![](https://markdown-videos.vercel.app/youtube/Q6R-VIlmAxg)](https://youtu.be/Q6R-VIlmAxg)
+
+
 ## Infrastructure
 The project has been designed to work on the cloud, using a lot of AWS services (Lambda, ECS, RDS, S3,Sagemaker..)
 Almost all the infrastructure is automatically deployed using Terraform.
 Here is a diagram describing the implemented infrastructure :
+
+
+![aws_infrastructure](https://github.com/0ENZO/MangaGO/assets/53021621/73e113e3-91ab-4e2d-b146-418d50c1fd40)
 
 ## Models
 To complete this project, we've used : 
@@ -25,8 +31,10 @@ All Japanese texts have been translated into French using DeepL API.
 ## Try-it yourself
 We've made a notebook that aims to demonstrate the MangaGO solution in a concise way. You'll find it in /notebooks/mangago_concise_notebook.ipynb
 
+<img width="580" alt="mangago_concise_notebook" src="https://github.com/0ENZO/MangaGO/assets/53021621/5202a4f9-f5d4-4407-b6b4-a752f9fdefba">
+
 ## Contributors
-This project have been made by :
+This project has been made by :
 - [FabienBarrios](https://github.com/FabienBarrios)
 - [BilalMahjoubi](https://github.com/BilalMahjoubi)
 - [0ENZO](https://github.com/0ENZO)
